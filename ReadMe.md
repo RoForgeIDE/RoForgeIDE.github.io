@@ -1,7 +1,7 @@
 # 🛠 Webpage Repository for RoForgeIDE
 
-![GitHub contributors](https://img.shields.io/github/contributors/RoForgeIDE/Libraries?color=green)
-![GitHub issues](https://img.shields.io/github/issues/RoForgeIDE/Libraries?color=blue)
+![GitHub contributors](https://img.shields.io/github/contributors/RoForgeIDE/RoForgeIDE.github.io?color=green)
+![GitHub issues](https://img.shields.io/github/issues/RoForgeIDE/RoForgeIDE.github.io?color=blue)
 [![License](./assets/license-badge.svg)](LICENSE.md)
 
 > [!Note]
